@@ -1,5 +1,16 @@
 # BrewMetrics Coffee Dashboard
 
+## Table of Contents
+
+- [Project Overview](#project-overview)  
+- [Project Objectives](#project-objectives)  
+- [Data Source](#data-source)  
+- [Dataset Features](#dataset-features)  
+- [Dashboard Features](#dashboard-features)
+- [Data Visualizations](#data-visualizations)  
+
+---
+
 ## Project Overview 
 BrewMetrics Coffee Dashboard is a data visualization and reporting project built to analyze coffee sales performance, customer trends, product demand, and operational insights. The dashboard transforms raw coffee shop data into interactive business intelligence that supports decision-making.
 The project was created using Microsoft Excel and focuses on presenting key metrics in a clean, easy-to-understand format.
